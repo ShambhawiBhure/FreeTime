@@ -1,0 +1,42 @@
+header{
+  width: 15%;
+  margin: auto;
+  margin-top: 0;
+  color: #707070;
+  font-size: 120px;
+}
+
+body{
+  background-color: #b0e0e6;
+  padding: 0% 15%;
+}
+
+a{
+  color: white;
+  text-decoration: none;
+  font-size: 2rem;
+  font-family: 'Potta One', cursive;
+}
+
+a:hover{
+  color: black;
+  text-decoration: none;
+}
+
+h1{
+  color: #31326f;
+  font-family: 'Yusei Magic', sans-serif;
+  font-weight: bold;
+  text-align: center;
+  padding-bottom: 2%;
+}
+
+p{
+  line-height: 1;
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+.Dice, .Drum, .Simon{
+  padding-bottom: 5%;
+}
