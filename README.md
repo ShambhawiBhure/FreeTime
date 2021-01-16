@@ -7,6 +7,7 @@ It includes three games :
   <li>Drum Kit</li>
   <li>Simon Game</li>
  </ul>
+ <hr>
  <strong>Dice Game : </strong>Every time you refresh the page, a pair of dice will show different outcomes, and based on that it will state which dice shows greater number and hence declares it as the winner. In case both the dice show the same number, it is a tie/draw!!
  <hr>
  <strong>Drum Kit : </strong>This is truely just a leisure activity, wherein there are some set of musical instruments, and the user can click on any of them to hear them!
